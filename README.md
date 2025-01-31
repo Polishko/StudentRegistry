@@ -1,2 +1,2 @@
 # StudentRegistry
-A repo for DevOps Course Exercise3-Qu1
+A repo for DevOps Course Exercise3-Qu1.
